@@ -1,0 +1,26 @@
+{
+  "name": "three-course-menu-app",
+  "version": "1.0.0",
+  "description": "A Vue.js application for creating a three-course menu with a shopping list and cooking instructions.",
+  "main": "src/main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.50.1",
+    "playwright": "^1.50.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.5.0",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "@vue/cli-service": "^4.5.0",
+    "babel-eslint": "^10.1.0"
+  },
+  "author": "",
+  "license": "MIT"
+}

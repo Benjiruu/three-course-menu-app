@@ -1,0 +1,107 @@
+{
+  "förrätter": [
+    {
+      "id": 1,
+      "name": "Vitlökscrème med örtolja och rostad ciabatta",
+      "ingredients": [
+        { "name": "vitlök", "quantity": "1", "unit": "klyfta" },
+        { "name": "grädde", "quantity": "1", "unit": "dl" },
+        { "name": "örtolja", "quantity": "1", "unit": "msk" },
+        { "name": "ciabatta", "quantity": "1", "unit": "skiva" }
+      ],
+      "instructions": "1. Stek vitlök i olja. 2. Tillsätt grädde och koka upp. 3. Mixa till en slät crème. 4. Servera med rostad ciabatta och örtolja."
+    },
+    {
+      "id": 2,
+      "name": "Råbiff av lax med dillcrème och picklad rödlök",
+      "ingredients": [
+        { "name": "lax", "quantity": "100", "unit": "g" },
+        { "name": "dill", "quantity": "1", "unit": "msk" },
+        { "name": "crème fraîche", "quantity": "0.5", "unit": "dl" },
+        { "name": "rödlök", "quantity": "1/2", "unit": "" }
+      ],
+      "instructions": "1. Skär laxen i tunna skivor. 2. Blanda dill och crème fraîche. 3. Pickla rödlök i ättika. 4. Lägg laxen på tallriken och toppa med dillcrème och rödlök."
+    },
+    {
+      "id": 3,
+      "name": "Gazpacho med basilikaolja och croutons",
+      "ingredients": [
+        { "name": "tomater", "quantity": "2", "unit": "" },
+        { "name": "gurka", "quantity": "1/2", "unit": "" },
+        { "name": "basilika", "quantity": "1", "unit": "msk" },
+        { "name": "croutons", "quantity": "0.5", "unit": "dl" }
+      ],
+      "instructions": "1. Mixa tomater, gurka och basilika till en soppa. 2. Kyl ned. 3. Servera med basilikaolja och croutons."
+    }
+  ],
+  "huvudrätter": [
+    {
+      "id": 4,
+      "name": "Oxfilé med rödvinsås och potatismos",
+      "ingredients": [
+        { "name": "oxfilé", "quantity": "150", "unit": "g" },
+        { "name": "rödvin", "quantity": "1", "unit": "dl" },
+        { "name": "potatis", "quantity": "200", "unit": "g" },
+        { "name": "grädde", "quantity": "0.5", "unit": "dl" }
+      ],
+      "instructions": "1. Stek oxfilén. 2. Koka upp rödvin till en reduktion. 3. Koka potatis och mosera med grädde. 4. Servera allt tillsammans."
+    },
+    {
+      "id": 5,
+      "name": "Panerad sjötunga med citron-smörsås",
+      "ingredients": [
+        { "name": "sjötunga", "quantity": "150", "unit": "g" },
+        { "name": "citron", "quantity": "1/2", "unit": "" },
+        { "name": "smör", "quantity": "50", "unit": "g" },
+        { "name": "panering", "quantity": "0.5", "unit": "dl" }
+      ],
+      "instructions": "1. Panera sjötungan. 2. Stek i smör tills den är gyllenbrun. 3. Tillsätt citron och smör till en sås. 4. Servera med ris eller grönsaker."
+    },
+    {
+      "id": 6,
+      "name": "Portobellomushroom-burgare med getost",
+      "ingredients": [
+        { "name": "portobello-svamp", "quantity": "1", "unit": "" },
+        { "name": "getost", "quantity": "50", "unit": "g" },
+        { "name": "burgerbröd", "quantity": "1", "unit": "" },
+        { "name": "rucola", "quantity": "0.5", "unit": "dl" }
+      ],
+      "instructions": "1. Grilla portobello-svampen. 2. Lägg på getost och låt smälta. 3. Lägg svampen i ett burgerbröd med rucola. 4. Servera med pommes frites."
+    }
+  ],
+  "efterrätter": [
+    {
+      "id": 7,
+      "name": "Crème brûlée med vanilj och bär",
+      "ingredients": [
+        { "name": "grädde", "quantity": "1", "unit": "dl" },
+        { "name": "vanilj", "quantity": "1", "unit": "st" },
+        { "name": "socker", "quantity": "2", "unit": "msk" },
+        { "name": "bär", "quantity": "0.5", "unit": "dl" }
+      ],
+      "instructions": "1. Värm grädde och vanilj. 2. Vispa ägg och socker. 3. Blanda och grädda i ugn. 4. Strö över socker och bränn med en brännare. 5. Toppa med bär."
+    },
+    {
+      "id": 8,
+      "name": "Pannacotta med passionsfrukt och mandlar",
+      "ingredients": [
+        { "name": "grädde", "quantity": "1", "unit": "dl" },
+        { "name": "passionsfrukt", "quantity": "1", "unit": "" },
+        { "name": "mandlar", "quantity": "1", "unit": "msk" },
+        { "name": "gelatin", "quantity": "1", "unit": "blad" }
+      ],
+      "instructions": "1. Värm grädde och gelatin. 2. Häll i formar och kyl. 3. Toppa med passionsfrukt och mandlar."
+    },
+    {
+      "id": 9,
+      "name": "Chokladfondant med hallon och vaniljglass",
+      "ingredients": [
+        { "name": "choklad", "quantity": "50", "unit": "g" },
+        { "name": "smör", "quantity": "50", "unit": "g" },
+        { "name": "ägg", "quantity": "1", "unit": "" },
+        { "name": "hallon", "quantity": "0.5", "unit": "dl" }
+      ],
+      "instructions": "1. Smält choklad och smör. 2. Vispa ägg och socker. 3. Blanda och grädda i ugn. 4. Servera med hallon och vaniljglass."
+    }
+  ]
+}
