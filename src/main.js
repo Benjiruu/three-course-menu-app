@@ -1,6 +1,6 @@
-import { createApp } from 'vue';
+import { createApp } from 'https://unpkg.com/vue@next';
+import { createRouter, createWebHistory } from 'https://unpkg.com/vue-router@next';
 import App from './App.vue';
-import { createRouter, createWebHistory } from 'vue-router';
 import routes from './router';
 
 const router = createRouter({
